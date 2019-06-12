@@ -1,4 +1,4 @@
 # NHẬN DIỆN BIỂN SỐ XE
 ## Road Map:
-![road map](https://github.com/PhamHoangTrongKhoa/ALPR/edit/master/RoadMap.jpg)
+![road map](https://github.com/PhamHoangTrongKhoa/ALPR/blob/master/RoadMap.jpg)
 
